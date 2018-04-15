@@ -1,6 +1,6 @@
 # PRESS.one Issues
 
-This repository is only for issues relating to the PRESS.one products.
+This repository is only for issues relating to all PRESS.one products.
 
 There is no product source code in this repository.
 
