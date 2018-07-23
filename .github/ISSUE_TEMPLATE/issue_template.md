@@ -1,1 +1,0 @@
-Template of an issue
