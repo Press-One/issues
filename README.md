@@ -4,7 +4,9 @@ This repository is only for issues relating to all PRESS.one products.
 
 There is no product source code in this repository.
 
-Please: [Create new issue](https://github.com/Press-One/issues/issues/new)
+First time to report a bug? Read this [How to report a bug](https://github.com/Press-One/issues/blob/master/How%20to%20report%20a%20bug.md)
+
+Or click here to [Create a new issue](https://github.com/Press-One/issues/issues/new?title=%5Bplatform-bug+level%5D+short+bug+description)
 
 # PRESS.one 建议、Bug追踪
 
