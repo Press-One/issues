@@ -31,7 +31,7 @@ A complete issue contains these information:
     >
     > Mixin ID: 000000
 
-[Click here to create an  issue](https://github.com/Press-One/issues/issues/new?title=[platform-bug+level]+short+bug+description)
+[Click here to create an issue](https://github.com/Press-One/issues/issues/new?template=issue_template_en.md&title=[platform-bug+level]+short+bug+description)
 
 ### Bug Level
 
